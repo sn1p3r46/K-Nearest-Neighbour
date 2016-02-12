@@ -1,2 +1,2 @@
 # K-Nearest-Neighbour
-Example Algorithm 
+Example KNN Algorithm 
